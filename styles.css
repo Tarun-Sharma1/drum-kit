@@ -141,7 +141,7 @@ h1{
 footer{
   transform: rotate(90deg);
   position:absolute;
-  left: 2rem;
+  left: -15%;
   top:50%;
   
 
